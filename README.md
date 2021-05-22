@@ -9,6 +9,16 @@ You will find some additional information in the dataset.
 If you use any or parts of the dataset, please cite the following papers and include a link to this repository.
 
 ```
+@INPROCEEDINGS{Singla2021IEEEVR,
+  author={Singla, Ashutosh and Göring, Steve and Keller, Dominik and Ramachandra Rao, Rakesh Rao and Fremerey, Stephan and Raake, Alexander},
+  booktitle={2021 IEEE Virtual Reality and 3D User Interfaces (VR)}, 
+  title={Assessment of the Simulator Sickness Questionnaire for Omnidirectional Videos}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={198-206},
+  doi={10.1109/VR50410.2021.00041}}
+
 @INPROCEEDINGS{Singla2017QOMEX, 
 author={A. Singla and S. Fremerey and W. Robitza and A. Raake}, 
 booktitle={9th International Conference on QoMEX}, 
